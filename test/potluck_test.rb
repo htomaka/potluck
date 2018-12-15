@@ -95,4 +95,3 @@ class PotcluckTest < Minitest::Test
         assert_equal 50.0, potluck.ratio(:appetizer)
     end
 end
-       
